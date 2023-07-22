@@ -3,11 +3,8 @@
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 <div\>
 <div>
-   <img src="https://img.shields.io/badge/VK-blue?logo=vk">
-   <img src="https://img.shields.io/badge/telegram-darkgrey?logo=telegram">
-   <img src="https://img.shields.io/badge/VK-blue?logo=vk">
-
-  https://t.me/TaidanaIshi
+   <a href="https://vk.com/gargamel1488"> <img src="https://img.shields.io/badge/VK-blue?logo=vk"> <a/>
+   <a href="https://t.me/TaidanaIshi"> <img src="https://img.shields.io/badge/telegram-darkgrey?logo=telegram"> <a/>
 <div\>
 
   
