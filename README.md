@@ -15,7 +15,7 @@
   
   ---
   
-  ## About me: :man_technologist:
+  ## About me:
 
 
   
