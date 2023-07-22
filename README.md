@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-  <img src="[https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj](https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif)">
+  <img src="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj](https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 <div\>
 <!--
 **Gargamel-l/Gargamel-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
