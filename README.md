@@ -14,9 +14,9 @@
   
 <div align="left">
   
-## About me:
+## About me: :man_technologist:
   
-  <strong>Привет! Я Антон, Full stack Developer из России </strong>
+  <strong> 	:wave: Привет! Я Антон, Full stack Developer из России </strong>
   
     - Я отлично знанию английский язык
     - Работаю в Cisco и EVE-NG: Моделирование и систематизирование сетей, настройка роутеров, микротиков и т.д.
