@@ -4,6 +4,10 @@
 <div\>
 <div>
    <img src="https://img.shields.io/badge/VK-blue?logo=vk">
+   <img src="https://img.shields.io/badge/telegram-darkgrey?logo=telegram">
+   <img src="https://img.shields.io/badge/VK-blue?logo=vk">
+
+  https://t.me/TaidanaIshi
 <div\>
 
   
