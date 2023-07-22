@@ -6,7 +6,6 @@
    <a href="https://vk.com/gargamel1488"> <img src="https://img.shields.io/badge/VK-blue?logo=vk"> <a/>
    <a href="https://t.me/TaidanaIshi"> <img src="https://img.shields.io/badge/telegram-grey?logo=telegram"> <a/>
 <div\>
-https://komarev.com/ghpvc/?username=your-github-username&color=green
 <div>
    <a href=""> <img src="https://komarev.com/ghpvc/?username=Gargamel-l&color=blueviolet"> <a/>
 <div\>  
