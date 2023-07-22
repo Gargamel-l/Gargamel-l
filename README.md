@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 <div\>
 <div>
-  <img alt="Static Badge" src="https://img.shields.io/badge/VK-blue?logo=vk&link=https%3A%2F%2Fvk.com%2Fgargamel1488">
+   <img src="[https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif](https://img.shields.io/badge/VK-blue?logo=vk&link=https%3A%2F%2Fvk.com%2Fgargamel1488)">
 <div\>
 
   
