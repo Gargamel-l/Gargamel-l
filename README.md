@@ -17,12 +17,13 @@
   
 ## About me: :man_technologist:
   
-  <strong> 	:wave: Привет! Я Антон, Full stack Developer из России </strong>
-  
-    - Работаю в Cisco и EVE-NG: Моделирование и систематизирование сетей, настройка роутеров, микротиков и т.д.
-    - Владею MySQL, PostgreSQL, MongoSQL: создание бд и подключение их к GUI или веб приложениям
-    - А так же HTML и CSS: вёрстка фронта для веб приложений
-    - Работаю с движками Unity: создание 2D и 3D игр на различные платформы
+ # 👋 Hey there, I am Anton!
+
+
+## 👨‍💻 Full Stack Developer | 📍 Russia
+
+- 🔐 I want to be engaged in information security
+
 </div>
 
 ---
@@ -54,6 +55,8 @@
 <div/>
   
 ---
+
+### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gargamel-l&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
